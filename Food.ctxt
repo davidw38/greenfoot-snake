@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Food
+comment1.params=color
+comment1.target=Food(java.awt.Color)
+comment2.params=
+comment2.target=void\ setPosition()
+numComments=3

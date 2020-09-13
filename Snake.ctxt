@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Snake
+comment1.params=isHead
+comment1.target=Snake(boolean)
+comment10.params=color
+comment10.target=void\ setColor(java.awt.Color)
+comment2.params=
+comment2.target=void\ extend()
+comment3.params=
+comment3.target=void\ follow()
+comment4.params=
+comment4.target=void\ move()
+comment5.params=
+comment5.target=java.awt.Color\ calcRandomColor()
+comment6.params=
+comment6.target=boolean\ isHead()
+comment7.params=
+comment7.target=int\ getLength()
+comment8.params=
+comment8.target=void\ resetLength()
+comment9.params=direction
+comment9.target=void\ setDirection(int)
+numComments=11

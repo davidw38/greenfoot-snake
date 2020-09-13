@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SuperFood
+comment1.params=color\ growBy
+comment1.target=SuperFood(java.awt.Color,\ int)
+comment2.params=
+comment2.target=int\ getGrowBy()
+comment3.params=growBy
+comment3.target=void\ setGrowBy(int)
+numComments=4

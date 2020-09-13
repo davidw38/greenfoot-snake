@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PoisonFood
+comment1.params=color\ mortal
+comment1.target=PoisonFood(java.awt.Color,\ boolean)
+comment2.params=
+comment2.target=boolean\ isMortal()
+numComments=3
